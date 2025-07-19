@@ -1,6 +1,5 @@
 # Hello👋
-Web Developer with 5+ years of experience in WordPress, Shopify, and SEO/CRO. Focused on building fast, responsive, and high-converting websites that balance design and performance.<br><br>
-
+<b>Web Developer</b> with 5+ years of experience in WordPress, Shopify, and SEO/CRO. Focused on building fast, responsive, and high-converting websites that balance design and performance.<br><br>
 Skilles:<br>
 Web design<br>
 WordPress & WooCommerce<br>
