@@ -1,4 +1,4 @@
-# 💫 About Me:
+# Hello👋:
 I'm a Creative Web Developer with 5+ years of experience in WordPress, Shopify, and SEO/CRO. I specialize in building fast, responsive, and high-converting websites that look great and perform even better.<br><br>Skilled in:<br><br>WordPress & WooCommerce<br><br>Shopify, Elementor, HTML/CSS/JS<br><br>On-page SEO & Conversion Optimization<br><br>I’m passionate about clean design, clear communication, and long-term client success.<br>Let’s build something great together!
 
 
