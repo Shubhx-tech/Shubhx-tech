@@ -1,5 +1,11 @@
 # Hello👋
-I'm a Creative Web Developer with 5+ years of experience in WordPress, Shopify, and SEO/CRO. I specialize in building fast, responsive, and high-converting websites that look great and perform even better.<br><br>Skilled in:<br>WordPress & WooCommerce<br>Shopify, Elementor, HTML/CSS/JS<br>On-page SEO & Conversion Optimization<br><br>I’m passionate about clean design, clear communication, and long-term client success.<br>Let’s build something great together!
+Web Developer with 5+ years of experience in WordPress, Shopify, and SEO/CRO. Focused on building fast, responsive, and high-converting websites that balance design and performance.<br><br>
+
+Skilles:<br>
+Web design<br>
+WordPress & WooCommerce<br>
+Shopify, Elementor, HTML/CSS/JavaScript<br>
+On-page SEO & Conversion Rate Optimization<br><br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shubham-chandel-976aa0311) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/30761804/digital-shubham) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Digitalschandel@gmail.com) 
 
